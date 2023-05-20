@@ -55,8 +55,7 @@ Um das Projekt auszuführen, müssen Sie zunächst sicherstellen, dass die folge
 3. Erstellen Sie die conda-Umgebung aus der bereitgestellten environment.yml-Datei.
 `conda env create -f environment.yml`
 
-4. Aktivieren Sie die erstellte conda-Umgebung.
-`conda activate huk_coding_challenge`
+4. Aktivieren Sie die erstellte conda-Umgebung im Jupyter Notebook. Dabei kann es sein, dass Sie Ihre Entwicklungsumgebung zuerst neu laden müssen (Reload Window)
 
 ## Verwendung
 Öffnen Sie das Jupyter-Notebook "coding_challenge.ipynb", um den Code auszuführen.
